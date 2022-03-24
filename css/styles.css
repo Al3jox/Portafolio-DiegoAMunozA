@@ -1,0 +1,21 @@
+body{
+    background-color: #212121;
+}
+
+.titulo-principal{
+    color: #14FFEC;
+}
+
+.titulo-principal .web{
+    color: aliceblue;
+}
+
+/* .titulo-principal .name, .web{
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+} */
+
+.fondo-texto{
+    background-color: #0D7377;
+}
+
